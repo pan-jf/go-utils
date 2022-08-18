@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"sync"
 	
-	"github.com/pan-jf/go-utils/batchworker"
+	"github.com/pan-jf/go-utils/bw"
 )
 
 type MyTest struct {

@@ -1,4 +1,4 @@
-package batchworker
+package bw
 
 import (
 	"fmt"
